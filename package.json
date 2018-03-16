@@ -1,14 +1,13 @@
 {
   "name": "create-react-admin",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.5",
+  "description": "The command line interface for scaffolding react admin application",
   "main": "index.js",
   "bin": {
     "create-react-admin": "./index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
